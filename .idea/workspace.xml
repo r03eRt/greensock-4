@@ -2,60 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7841977-9e5d-4b43-80fb-b6066b8c8874" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img_mountains01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img_mountains02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img_mountains03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img_mountains04.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/@eaDir/.DS_Store@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/@eaDir/_config.png@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/@eaDir/apple-touch-icon.png@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/@eaDir/browserconfig.xml@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/@eaDir/favicon.ico@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/@eaDir/gulpfile.js@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/@eaDir/package.json@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/@eaDir/tile-wide.png@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/@eaDir/tile.png@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/@eaDir/.DS_Store@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/@eaDir/styles.min.css@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index-original.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/@eaDir/.DS_Store@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/@eaDir/jquery-1.11.2.min.js@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/vendor/@eaDir/modernizr-2.8.3-respond-1.4.2.min.js@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/@eaDir/.DS_Store@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/css/@eaDir/main.css@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/css/@eaDir/normalize.css@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/css/@eaDir/normalize.min.css@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/@eaDir/main.js@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/@eaDir/jquery-1.11.2.min.js@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/@eaDir/modernizr-2.8.3-respond-1.4.2.min.js@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/jquery-1.11.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/@eaDir/.DS_Store@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/@eaDir/style.scss@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/modules/@eaDir/.DS_Store@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/modules/@eaDir/_clearfix.scss@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/modules/@eaDir/_normalize.scss@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/modules/@eaDir/_print.scss@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/modules/_clearfix.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/modules/_normalize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/modules/_print.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/partials/@eaDir/_main.scss@SynoEAStream" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/partials/_main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/style.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/scss/vendor/@eaDir/_external.scss@SynoEAStream" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/css/normalize.css" afterPath="$PROJECT_DIR$/css/normalize.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/css/normalize.min.css" afterPath="$PROJECT_DIR$/css/normalize.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/scss/vendor/_external.scss" afterPath="$PROJECT_DIR$/js/a.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.min.css" afterPath="$PROJECT_DIR$/css/styles.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="greensock-4.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,7 +16,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="DockManager">
     <window id="1">
@@ -119,8 +67,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+            <state relative-caret-position="448">
+              <caret line="118" column="25" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -319,7 +267,7 @@
       <option name="presentableId" value="Default" />
       <updated>1470654029405</updated>
       <workItem from="1470654030606" duration="3215000" />
-      <workItem from="1470680004682" duration="8293000" />
+      <workItem from="1470680004682" duration="9255000" />
     </task>
     <task id="LOCAL-00001" summary="Finished example 1 simple page fadeUp when scroll and naavbar colored">
       <created>1470681352563</created>
@@ -335,19 +283,41 @@
       <option name="project" value="LOCAL" />
       <updated>1470684409865</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished example 3 added TweenMax to ScrollMagic">
+      <created>1470690407836</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1470690407836</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Timeline to intro animation Scrollmagic&#10;">
+      <created>1470690498935</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1470690498935</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Timeline to intro animation Scrollmagic&#10;">
+      <created>1470690548810</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1470690548810</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11508000" />
+    <option name="totallyTimeSpent" value="12470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="710" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -371,7 +341,8 @@
     <MESSAGE value="Finished example 1 simple page fadeUp when scroll and naavbar colored" />
     <MESSAGE value="Finished example 2 Added navbar breakup section&#10;" />
     <MESSAGE value="Finished example 3 added TweenMax to ScrollMagic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished example 3 added TweenMax to ScrollMagic" />
+    <MESSAGE value="Added Timeline to intro animation Scrollmagic&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Timeline to intro animation Scrollmagic&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -452,8 +423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+        <state relative-caret-position="448">
+          <caret line="118" column="25" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="25" />
           <folding />
         </state>
       </provider>

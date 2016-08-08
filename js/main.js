@@ -78,7 +78,7 @@
 
             introTl
                 .to($('#intro header, .scroll-hint'), 0.2, {autoAlpha: 0, ease:Power0.easeNone})
-                .to($('#intro .bcg'), 1.4, {y: '40%', ease:Power1.easeOut}, '-=0.2')
+                .to($('#intro .bcg'), 1.4, {y: '20%', ease:Power1.easeOut}, '-=0.2')
                 .to($('#intro'), 0.7, {autoAlpha: 0.5, ease:Power0.easeNone}, '-=1.4');
 
             var introScene = new ScrollMagic.Scene({
@@ -102,5 +102,28 @@
         });
 
     }
+
+    // change behaviour of controller to animate scroll instead of jump
+    controller.scrollTo(function (newpos) {
+        TweenMax.to(window, 1, {scrollTo: {y: newpos}, ease:Power1.easeInOut});
+    });
+
+
+
+//  bind scroll to anchor links
+$(document).on("click", "a[href^='#']", function (e) {
+    var id = $(this).attr("href");
+    if ($(id).length > 0) {
+        e.preventDefault();
+
+        // trigger scroll
+        controller.scrollTo(id);
+
+        // if supported by the browser we can even update the URL.
+        if (window.history && window.history.pushState) {
+            history.pushState("", document.title, id);
+        }
+    }
+});
 
 }(jQuery));
