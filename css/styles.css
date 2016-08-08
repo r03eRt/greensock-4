@@ -233,7 +233,7 @@ h1 {
 }
 
 .slide3{
-  background: lightblue;
+  background: blue;
 }
 
 .slide4{
@@ -265,7 +265,17 @@ h1 {
   transform: translate3d(0, 0, 0);
 }
 
+.lighted{
+  color: white;
+}
 
+.navegacion{
+  position: fixed;
+  top: 50%;
+  right: 0%;
+  transform: translate(-50%, -54%);
+  z-index: 1;
+}
 
 /* ==========================================================================
    Media Queries

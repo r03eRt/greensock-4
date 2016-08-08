@@ -28,8 +28,18 @@ $(function(){
 
 		// Añado la escena al controllador
 		.addTo(controller);
-
 	});
+
+
+    // SCENE 2
+
+    var navScene = new ScrollMagic.Scene({
+        // Clase que activa el trigger
+        triggerElement: '.is-light'
+    })
+        // A la clase que queremos destacar  le ponemos otra clase
+        .setClassToggle('.fs.is-light','lighted')
+        .addTo(controller);
 
 
 
