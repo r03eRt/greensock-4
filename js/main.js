@@ -31,6 +31,7 @@ $(function(){
 
 
 
+        
 
         // Make scene
         var navScene = new ScrollMagic.Scene({
@@ -41,11 +42,8 @@ $(function(){
 
         // Ponemos que classes se añaden o se quitan cuando pasamos junto con el selector
             .setClassToggle('.navegacion', 'white')
-
             // Añado la escena al controllador
             .addTo(controller);
-
-
 
 
 	});

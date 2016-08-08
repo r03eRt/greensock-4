@@ -249,12 +249,21 @@ h1 {
 
 
 /* =Simple animation up */
-.no-touch>h1,.no-touch>p  {
+.no-touch>h1{
   opacity: 0;
   transition: all 0.7s ease-out;
   -webkit-transform: translate3d(0, 50px, 0);
   transform: translate3d(0, 50px, 0);
 }
+
+.no-touch>p  {
+  opacity: 0;
+  transition-delay: 0.4s;
+  transition: all 0.7s ease-out;
+  -webkit-transform: translate3d(0, 50px, 0);
+  transform: translate3d(0, 50px, 0);
+}
+
 
 
 /* =Simple animation up */
