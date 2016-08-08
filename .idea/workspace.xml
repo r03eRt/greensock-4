@@ -67,8 +67,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="118" column="25" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="25" />
+            <state relative-caret-position="343">
+              <caret line="79" column="45" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -267,7 +267,7 @@
       <option name="presentableId" value="Default" />
       <updated>1470654029405</updated>
       <workItem from="1470654030606" duration="3215000" />
-      <workItem from="1470680004682" duration="9255000" />
+      <workItem from="1470680004682" duration="9498000" />
     </task>
     <task id="LOCAL-00001" summary="Finished example 1 simple page fadeUp when scroll and naavbar colored">
       <created>1470681352563</created>
@@ -304,11 +304,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470690548810</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added smooth scroll">
+      <created>1470691391693</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1470691391693</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12470000" />
+    <option name="totallyTimeSpent" value="12713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="710" extended-state="6" />
@@ -342,7 +349,8 @@
     <MESSAGE value="Finished example 2 Added navbar breakup section&#10;" />
     <MESSAGE value="Finished example 3 added TweenMax to ScrollMagic" />
     <MESSAGE value="Added Timeline to intro animation Scrollmagic&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Timeline to intro animation Scrollmagic&#10;" />
+    <MESSAGE value="Added smooth scroll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added smooth scroll" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -423,8 +431,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="118" column="25" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="25" />
+        <state relative-caret-position="343">
+          <caret line="79" column="45" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="45" />
           <folding />
         </state>
       </provider>
