@@ -28,6 +28,27 @@ $(function(){
 
 		// Añado la escena al controllador
 		.addTo(controller);
+
+
+
+
+        // Make scene
+        var navScene = new ScrollMagic.Scene({
+            // Quien lo lanza
+            triggerElement: header,
+            // Diferencia con el top
+            offset: -95
+        })
+
+        // Ponemos que classes se añaden o se quitan cuando pasamos junto con el selector
+            .setClassToggle('.slide'+num+'-nav', 'is-active')
+
+            // Añado la escena al controllador
+            .addTo(controller);
+
+
+
+
 	});
 
 
