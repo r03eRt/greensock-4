@@ -277,8 +277,51 @@ h1 {
   z-index: 1;
 }
 
-.navi.is-active{
-  font-weight: bold;
+.slide1-nav.is-active,.slide2-nav.is-active,.slide3-nav.is-active,.slide4-nav.is-active{
+  transition: 0.7s all ;
+  color:white;
+}
+
+.navi{
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s  linear;
+  -ms-transition: all 0.2s  linear;
+  -o-transition: all 0.2s  linear;
+  transition: all 0.2s  linear;
+  transform: translate3d(20px,0,0);
+}
+
+.navi:hover{
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s  linear;
+  -ms-transition: all 0.2s  linear;
+  -o-transition: all 0.2s  linear;
+  transition: all 0.2s  linear;
+  transform: translate3d(0,0,0);
+
+}
+
+.navi>a{
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s  linear;
+  -ms-transition: all 0.2s  linear;
+  -o-transition: all 0.2s  linear;
+  transition: all 0.2s  linear;
+  opacity: 0;
+}
+
+.navi:hover>a{
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s  linear;
+  -ms-transition: all 0.2s  linear;
+  -o-transition: all 0.2s  linear;
+  transition: all 0.2s  linear;
+  opacity: 1;
+}
+
+
+.white{
+  color: #ffffff;
 }
 
 /* ==========================================================================
