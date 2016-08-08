@@ -126,4 +126,34 @@ $(document).on("click", "a[href^='#']", function (e) {
     }
 });
 
+
+
+    // PRELOADER
+
+
+    var loaderCount = 0; // imagenes que llevo cargadas
+    var imagesToLoad = $('.bcg').length; // Numero de imagenes que faltan
+    var loadingProgress = 0; // Time line empieza en 0
+
+
+    // cuando cargan las imagenes
+    $('.bcg').imagesLoaded({
+        background: true
+    }).progress(function (instance, image) {
+        loadProgess();
+    });
+    
+    
+    function loadProgess(imgLoad, image) {
+        // Cuando entro es que ha cargado una mas
+        loaderCount++;
+
+        loadingProgress = (loaderCount / imagesToLoad);
+
+        //TweenLite.to(progressTl, 0.7, {progress:loadingProgress, ease:Linear.easeNone});
+
+    };
+
+
+
 }(jQuery));
