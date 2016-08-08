@@ -72,7 +72,7 @@
             var $bcg = $(slide).find('.bcg');
 
             // move bcg container when intro gets out of the the view
-            /** FADE INTRO
+            // FADE INTRO
 
             var introTl = new TimelineMax();
 
@@ -88,9 +88,8 @@
             })
                 .setTween(introTl)
                 .addTo(controller);
-**/
 
-
+/**
             var slideParrallaxScene = new ScrollMagic.Scene({
                 triggerElement: slide,
                 triggerHook: 1,
@@ -99,7 +98,7 @@
                 TweenMax.from($bcg, 1, {y: '-40%', autoAlpha: 0.3, ease:Power0.easeNone})
             )
             .addTo(controller);
-
+**/
         });
 
     }
